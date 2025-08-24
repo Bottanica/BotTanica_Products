@@ -14,7 +14,7 @@ Whether you’re building with WisBlock or exploring new hardware possibilities,
 **Please support open hardware by purchasing from us!**
 
 For questions and support, visit our [Discord](https://discord.gg/7UnrZU6w)  
-To buy modules and other products, check out our [Store](www.tindie.com/stores/bottanica/)
+To buy modules and other products, check out our [Store](https://www.tindie.com/stores/bottanica/)
 
 ---
 
