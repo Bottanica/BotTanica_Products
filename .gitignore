@@ -1,0 +1,72 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Arduino IDE
+*.hex
+*.elf
+*.map
+
+# KiCad backup files
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.sch-bak
+*-rescue.lib
+*-rescue.dcm
+*-rescue.kicad_sym
+fp-info-cache
+*.net
+
+# Eagle backup files
+*.s#?
+*.b#?
+*.l#?
+*.lck
+
+# Altium backup files
+*.SchDocPreview
+*.PcbDocPreview
+History/
+Project\ Logs*/
+Project\ Outputs*/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Archive files
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Documentation build files
+_build/
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+node_modules/
+
+# Local configuration files
+config.local.*
+.env
