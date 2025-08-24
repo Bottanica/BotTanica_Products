@@ -57,7 +57,6 @@ Project\ Outputs*/
 
 # Documentation build files
 _build/
-*.pdf
 
 # Python cache
 __pycache__/
