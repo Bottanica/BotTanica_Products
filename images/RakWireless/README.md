@@ -1,0 +1,1 @@
+These images are SVG images I could find on the RakWireless website, I can use these for templates if needed.
