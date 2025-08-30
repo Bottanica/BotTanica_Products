@@ -1,6 +1,6 @@
 # BOT19000 Qwiic-Powered Baseboard
 
-![BOT19000 Module](/images/BOT19000/BOT19000.svg)
+![BOT19000 Module](images/BOT14000/BOT14000_Overview.svg)
 
 The **BOT19000** is a Qwiic-powered baseboard featuring dual WisBlock-compatible sensor slots with identical 24-pin pinouts. Powered entirely via Qwiic connector (226mA max), it provides the same VDD/3V3_S and 3V3 power architecture as WisBlock Base boards, enabling seamless migration of existing WisBlock projects.
 
