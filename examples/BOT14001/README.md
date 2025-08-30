@@ -1,6 +1,6 @@
 # BOT14001 OLED Display Module
 
-![BOT14001 Module](../../images/BOT14001/BOT14001.svg)
+![BOT14001 Module](/images/BOT14001/BOT14001.svg)
 
 The **BOT14001** is a compact 23mm WisBlock sensor module featuring a crisp 88×48 pixel OLED display, powered by the CH1115 controller. It connects via I2C (0x3C address), is optimized for low power use, and is fully compatible with the WisBlock ecosystem.
 

@@ -1,6 +1,6 @@
 # BOT14000
 
-![BOT14000 Module](../../images/BOT14000/BOT14000.svg)
+![BOT14000 Module](/images/BOT14000/BOT14000.svg)
 
 The **BOT14000** is a versatile WisBlock-compatible module designed for seamless integration into your IoT and embedded projects. Engineered for reliability and ease-of-use, the BOT14000 extends your system’s capabilities with robust features and simple connectivity.
 
