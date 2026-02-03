@@ -10,6 +10,6 @@ The **BOT14001** is a compact 23mm WisBlock sensor module featuring a crisp 88×
 - **Plug & Play:** Integrated pull-ups (jumper configurable)
 - **Typical Uses:** IoT dashboards, status screens, portable and wearable displays
 
-For full documentation, technical details, and quickstart guides, visit the [official docs portal](https://docs.example.com/BOT14001).
+For full documentation, technical details, and quickstart guides, visit the [official docs portal](https://www.bottanica.io/products/wisblock/BOT14001/Overview.html).
 
-_Example code and hardware images can be found in this folder and in `/examples/BOT14001/`._
+**Example code for the BOT14001 is available in this folder.**

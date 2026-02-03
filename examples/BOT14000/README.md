@@ -8,7 +8,7 @@ The **BOT14000** is a versatile WisBlock-compatible module designed for seamless
 - Compact form factor for space-constrained applications
 - Designed for straightforward integration with WisBlock Base and Core modules
 
-For detailed technical documentation, specifications, and advanced integration guides, please visit our [documentation website](https://docs.example.com/BOT14001).
+For full documentation, technical details, and quickstart guides, visit the [official docs portal](https://www.bottanica.io/products/wisblock/BOT14000/Overview.html).
 
 ---
 

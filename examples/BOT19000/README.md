@@ -15,4 +15,4 @@ The **BOT19000** is a Qwiic-powered baseboard featuring dual WisBlock-compatible
 - **Jumper Closed (Default):** 3V3_S always powered - simple plug-and-play operation
 - **Jumper Cut:** IO2 pin controls 3V3_S rail - enables advanced power management for battery applications
 
-For complete specifications, WisBlock migration guides, and power budget planning, visit the [official docs portal](https://docs.example.com/BOT19000).
+For full documentation, technical details, and quickstart guides, visit the [official docs portal](https://www.bottanica.io/products/wisblock/BOT19000/Overview.html).
